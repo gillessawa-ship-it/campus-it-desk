@@ -2,3 +2,4 @@
 Schedule: Saturday 10:00
 Backup: Daily
 Monitoring: Enabled
+Retention: 7 days
